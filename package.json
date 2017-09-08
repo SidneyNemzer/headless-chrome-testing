@@ -1,0 +1,10 @@
+{
+  "name": "headless-chrome-testing",
+  "version": "1.0.0",
+  "description": "Testing headless chrome, mostly with Firebase",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
